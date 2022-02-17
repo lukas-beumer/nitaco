@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nitaco&label=Profile%20views&color=0e75b6&style=flat" alt="nitaco" /> </p>
 
-- 🔭 I’m currently working on [beA-brak at CONWISS and Westernacher Solutions](https://www.bea-brak.de)
-
 - 🌱 I’m currently learning **kubernetes in business cases, terraform and gitlab ci/cd**
 
 - 👨‍💻 All of my projects are available at [https://github.com](https://github.com)
