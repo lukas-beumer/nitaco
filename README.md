@@ -5,13 +5,11 @@
 
 - 🔭 I’m currently working for [REWE Digital](https://www.rewe-digital.com/en), [CONWISS IT](https://www.conwiss.de)
 
-- 🌱 I’m currently learning further skills in **Kubernetes, GitLab CI/CD and Java Spring Boot**
+- 🌱 I’m currently learning further skills in **Kubernetes, Camunda, GitLab CI/CD and Java Spring Boot**
 
-- 👯 I’m looking to collaborate on **Ansible**
+- 👯 I’m looking to collaborate on **Ansible**, **Camunda**
 
 - 👨‍💻 All of my projects are available at [https://github.com/nitaco?tab=repositories](https://github.com/nitaco?tab=repositories)
-
-- 📝 I regularly write articles on [https://www.lukas-beumer.de](https://www.lukas-beumer.de)
 
 - 💬 Ask me about **IaC (Terraform/Consul), Ansible, Linux, Kubernetes, Cloud, Development, Gitlab CI/CD, Monitoring and Logging**
 
